@@ -1,0 +1,26 @@
+.header {
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 10px 0;
+}
+
+.link-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.link-list li {
+  margin: 0 15px;
+}
+
+.link-list a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+
+.link-list a:hover {
+  text-decoration: underline;
+}

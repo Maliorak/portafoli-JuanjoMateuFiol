@@ -1,0 +1,60 @@
+[
+  {
+    "title": "EcoCommerce",
+    "description": "Desarrollo de una plataforma de comercio electrónico sostenible que conecta pequeños negocios ecológicos con consumidores interesados en productos responsables.",
+    "image": "/assets/img/proyecto1.jpg",
+    "technologies": ["React", "Node.js", "MongoDB"],
+    "date": "Enero 2024",
+    "link": "https://es.wikipedia.org/wiki/Metadatos"
+  },
+  {
+    "title": "AI Tutor",
+    "description": "Creación de un asistente virtual impulsado por inteligencia artificial para estudiantes, enfocado en personalizar su aprendizaje y resolver dudas en tiempo real.",
+    "image": "/assets/img/proyecto2.jpg",
+    "technologies": ["Python", "TensorFlow", "Django"],
+    "date": "Febrero 2024",
+    "link": "https://t.ly/AITutor"
+  },
+  {
+    "title": "SmartCityView",
+    "description": "Implementación de un sistema de monitoreo en tiempo real para ciudades inteligentes, mejorando la gestión del tráfico, el consumo energético y la seguridad.",
+    "image": "/assets/img/proyecto3.jpg",
+    "technologies": ["Vue.js", "Express", "PostgreSQL"],
+    "date": "Marzo 2024",
+    "link": "https://t.ly/SmartCityView"
+  },
+  {
+    "title": "DigitalHealth Tracker",
+    "description": "Desarrollo de una aplicación para el monitoreo de la salud en tiempo real, combinando dispositivos wearables con análisis de datos en la nube.",
+    "image": "/assets/img/proyecto4.jpg",
+    "technologies": ["Flutter", "Firebase", "Python"],
+    "date": "Abril 2024",
+    "link": "https://t.ly/DigitalHealthTracker"
+  },
+  {
+    "title": "MetaOffice Spaces",
+    "description": "Construcción de oficinas virtuales en el metaverso para empresas que buscan colaborar de manera remota con experiencias inmersivas.",
+    "image": "/assets/img/proyecto5.jpg",
+    "technologies": ["Unity", "C#", "Node.js"],
+    "date": "Mayo 2024",
+    "link": "https://es.wikipedia.org/wiki/Jap%C3%B3n"
+  },
+  {
+    "title": "HowtoTroll",
+    "description": "Desarrollo de una aplicación para el monitoreo de la salud en tiempo real, combinando dispositivos wearables con análisis de datos en la nube.",
+    "image": "/assets/img/proyecto4.jpg",
+    "technologies": ["Flutter", "Firebase", "Python"],
+    "date": "Abril fools 2024",
+    "link": "https://t.ly/EN2km"
+  },
+  {
+    "title": "DigitalHealth Tracke",
+    "description": "Desarrollo de una aplicación para el monitoreo de la salud en tiempo real, combinando dispositivos wearables con análisis de datos en la nube.",
+    "image": "/assets/img/proyecto4.jpg",
+    "technologies": ["Flutter", "Firebase", "Python"],
+    "date": "Abril 2024",
+    "link": "https://t.ly/DigitalHealthTracker"
+  }
+]
+
+  
